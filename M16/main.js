@@ -1,5 +1,6 @@
-var x = 10;
-x = 15;
-var y;
+var y = 10;
+var x = "15";
 
-console.log(++y);
+
+console.log(x+y);
+
